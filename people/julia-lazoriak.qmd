@@ -3,7 +3,7 @@ title: "Julia Lazoriak"
 description: "Intern"
 ---
 
-![Julia Lazoriak](placeholder.jpg){width=500 fig-align="center"}
+![Julia Lazoriak](Julia Lazoriak photo.JPG){width=500 fig-align="center"}
 
 
 בְּרֵאשִׁית, בָּרָא אלֹהִים, אֵת הַשָּׁמַיִם, וְאֵת הָאָרֶץ. 
